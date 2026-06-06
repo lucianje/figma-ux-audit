@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "figma-ux-audit",
+  "pitch": "Exports Figma design tokens and runs automated UI accessibility and consistency checks.",
+  "language": "typescript",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "Figma token export (colors, typography, spacing) to JSON",
+    "Rule-based checks for contrast, tap targets, and text sizing",
+    "CI-friendly report output (JUnit/JSON/Markdown)"
+  ],
+  "targetUsers": "Frontend teams using Figma who want automated pre-implementation UX/accessibility checks in CI."
+}
